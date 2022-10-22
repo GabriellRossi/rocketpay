@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab </h1>
+<h1 align="center">ROCKETPAY</h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB, especificamente aperfeiçoando o conhecimento em JavaScript-DOM.
