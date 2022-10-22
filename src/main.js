@@ -82,7 +82,9 @@ const cardNumberPattern = {
 const cardNumberMasked = IMask(cardNumber, cardNumberPattern);
 
 const addButton = document.querySelector("#add-card");
-addButton.addEventListener("click", () => {});
+addButton.addEventListener("click", () => {
+  alert("cartão adicionado");
+});
 
 document.querySelector("form").addEventListener("submit", (event) => {
   event.preventDefault();
@@ -93,5 +95,5 @@ cardHolder.addEventListener("input", () => {
   const ccHolder = document.querySelector(".cc-holder .value");
 
   ccHolder.innerText =
-    cardHolder.value.lenght === 0 ? "FULANO DA SILVA" : cardHolder.value;
+    cardHolder.value.length === 0 ? "FULANO DA SILVA" : cardHolder.value;
 });
