@@ -35,3 +35,13 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 Feito com ♥ by Gabriel Rossi :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+<br>
+
+## :rocket: Rodando o projeto
+
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+
+```
+npm install
+```
