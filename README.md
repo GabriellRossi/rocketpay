@@ -42,4 +42,6 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 npm install
 ```
 
-Feito com ♥ by Gabriel Rossi :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<p align="center">
+Feito com ♥ by Gabriel Rossi :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)  
+</p>
