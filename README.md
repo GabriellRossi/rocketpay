@@ -36,8 +36,6 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Feito com ♥ by Gabriel Rossi :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
-<br>
-
 ## :rocket: Rodando o projeto
 
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
